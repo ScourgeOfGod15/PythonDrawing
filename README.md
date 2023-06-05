@@ -8,4 +8,4 @@ Requirement:
 
 How to use it:
 1. Save the image and code in the same folder 
-2. change the image name in line 25. (jpg, png, svg)
+2. Change the image name in line 25. (jpg, png, svg)
