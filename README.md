@@ -1,4 +1,6 @@
 # PythonDrawing
+<⚡️> Python AI Drawing - A open source autonomous AI Drawing. Enabling developers to draw a sketch of images which converse from images format (jpg, png, svg, or any other format).
+
 Python AI drawing
 Requirement:
 1. Python
@@ -8,7 +10,4 @@ Requirement:
 
 How to use it:
 1. Save the image and code in the same folder 
-2. Change the image name in line 25. (jpg, png, svg, or any other format)
-
-Description:
-As the title suggest this program is to draw a sketch of images which store it's memory using images format 
+2. Change the image name in line 25.
