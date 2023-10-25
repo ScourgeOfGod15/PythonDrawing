@@ -9,5 +9,8 @@ Requirement:
 4. Matplotlib
 
 How to use it:
-1. Save the image and code in the same folder 
+1. Save the image and code in the same folder.
 2. Change the image name in line 25.
+3. Run without debugging. <----MUST
+
+Reason - I created this for the purpose turning my sketch drawing into a vector
