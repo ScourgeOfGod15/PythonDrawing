@@ -1,5 +1,5 @@
 # PythonDrawing
-<⚡️> Python AI Drawing - A open source autonomous AI Drawing. Enabling developers to draw a sketch of images which converse from images format (jpg, png, svg, or any other format).
+<⚡️> Python Bot Drawing - A open source autonomous Bot Drawing. Enabling developers to draw a sketch of images which converse from images format (jpg, png, svg, or any other formats).
 
 Python AI drawing
 Requirement:
